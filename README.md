@@ -36,6 +36,9 @@ One of the strongest aspects of this project was organizing the thermostat as a 
 Separating the OFF, HEAT, and COOL operating modes simplified the control logic and made the software easier to understand and extend. 
 I also successfully integrated multiple hardware interfaces, including GPIO, I²C, UART, and the LCD display, into a single application.
 
+<img width="605" height="711" alt="cs 350 final state machine drawio" src="https://github.com/user-attachments/assets/213335da-b0b6-4887-b511-f88fe1479ca6" />
+
+
 ### Where I Could Improve
 
 Given more time, I would improve the software by separating hardware drivers, state logic, and user interface code into independent modules. 
